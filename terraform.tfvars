@@ -1,1 +1,0 @@
-content = "This content came from .tfvars file"
